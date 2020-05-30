@@ -1,0 +1,13 @@
+@import 'dimensions';
+:host {
+  height: $toolbar-height;
+  min-height: $toolbar-height;
+  max-height: $toolbar-height;
+  mat-toolbar {
+    height: $toolbar-height;
+    display: flex;
+    div.spacer {
+      flex-grow: 1;
+    }
+  }
+}

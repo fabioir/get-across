@@ -1,0 +1,6 @@
+@import 'dimensions';
+:host {
+  mat-sidenav-container.container {
+    height: calc(100% - #{$toolbar-height});
+  }
+}
