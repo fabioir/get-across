@@ -1,5 +1,5 @@
 # get-across
 
-Deployed on: https://get-across.netlify.app/
+Deployed on: https://getacross.tk
 
 Trello board: https://trello.com/b/oNCJnLFj/get-across
